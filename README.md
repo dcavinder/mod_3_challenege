@@ -14,7 +14,8 @@ The Password Generator page can be used as a resource for employees to generate 
 passwords to increase secutity measures. There are a series of prompts that allows the user to customize their password. User selections are verified and the password is generated and displayed on the page.
 
 ## Deployed
-https://dcavinder.github.io/mod_3_challenge/
+https://dcavinder.github.io/unique_password_generator
+
 
 ## License
 MIT License
